@@ -1,0 +1,8 @@
+package ru.netology.ibdev;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("CI/CD pipeline test: Success!");
+    }
+}
+
